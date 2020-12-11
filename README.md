@@ -14,7 +14,9 @@
 <code><img height="20" src="https://cdn.discordapp.com/attachments/784909507385884683/785555796661502042/1280px-Go_Logo_Blue.svg.png"></code>
 
 
-# ![Sources github stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=dark)
+
+[![codeine's github stats](https://github-readme-stats.vercel.app/api?username=codeineluv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+)
 <a href="https://github.com/31th?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&theme=dark&layout=compact" />
  
