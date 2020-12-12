@@ -16,7 +16,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=dark)
+[![draco's github stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
  ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&show_icons=true&layout=compact&theme=tokyonight)
 
