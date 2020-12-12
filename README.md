@@ -1,6 +1,6 @@
 # welcome to my githup wsg, im draco
 
-<img src="https://cdn.discordapp.com/attachments/787158429877272576/787160814293483550/image2.gif" alt="Avatar" style="border-radius: 95%;">
+<img src="https://cdn.discordapp.com/attachments/763890411718443008/786614371173924884/Kris1.gif alt="Avatar" style="border-radius: 95%;">
 
 
 [![draco's github stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
