@@ -1,4 +1,4 @@
-**hello, wsg im draco
+welcome to my githup wsg, im draco
 
 <img src="https://cdn.discordapp.com/attachments/787158429877272576/787160814293483550/image2.gif" alt="Avatar" style="border-radius: 95%;">
 
