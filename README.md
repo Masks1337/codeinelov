@@ -17,6 +17,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=dark)
+
  ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&show_icons=true&layout=compact&theme=tokyonight)
 
  
