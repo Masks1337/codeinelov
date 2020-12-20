@@ -1,4 +1,4 @@
-# welcome to my githup wsg, im draco
+# puls is my daddy
 -----
 <img src="https://cdn.discordapp.com/attachments/786275778210955324/787204677678399488/image0.gif" alt="Avatar" style="border-radius: 75%;">
 
