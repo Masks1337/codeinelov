@@ -9,7 +9,7 @@
 
 <br>
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=6uv&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=6uv&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
