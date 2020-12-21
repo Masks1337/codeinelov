@@ -7,7 +7,9 @@
 ·
 <a href="https://www.youtube.com/channel/UCz6rQbYu6HIw6bq9U9bMZlg">youtube</a>
 
-[![draco's github stats](https://github-readme-stats.vercel.app/api?username=codeinelov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![draco's github stats](
+  <img src = "https://github-readme-stats.vercel.app/api?username=6codeinelov&show_icons=true&theme=tokyonight&line_height=27">) <br>
 
- ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&show_icons=true&layout=compact&theme=tokyonight)
+ ![github language statistics](
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codeinelov&hide=css,java,html&theme=tokyonight">)
 
