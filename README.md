@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/channel/UCz6rQbYu6HIw6bq9U9bMZlg">youtube</a>
 
 <br>
-<p align = "center">
+
   <img src = "https://github-readme-stats.vercel.app/api?username=6uv&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=6uv&hide=css,java,html&theme=tokyonight">
 </p>
