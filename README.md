@@ -20,4 +20,4 @@
 <br>
 </center>
 
- src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
+src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
