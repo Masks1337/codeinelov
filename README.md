@@ -1,6 +1,6 @@
 # yo im draco
 -----
-<img src="https://cdn.discordapp.com/attachments/697225400505598044/790425846053470208/Krii.gif" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/avatars/763858757448892416/a_cb966c67864e745266b4c91455053067.gif?size=256&f=.gif" alt="Avatar" style="border-radius: 75%;">
 
 
  <a href="https://discord.bio/p/8203">discord</a> 
