@@ -1,8 +1,8 @@
 # yo im draco
------
+
 <img src="https://cdn.discordapp.com/avatars/763858757448892416/a_cb966c67864e745266b4c91455053067.gif?size=256&f=.gif" alt="Avatar" style="border-radius: 75%;">
 
-
+-----
  <a href="https://discord.bio/p/8203">discord</a> 
 ·
 <a href="https://www.youtube.com/channel/UCz6rQbYu6HIw6bq9U9bMZlg">youtube</a>
