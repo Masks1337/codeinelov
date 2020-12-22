@@ -20,4 +20,4 @@
 <br>
 </center>
 
- /></a><a href="https://discord.gg/V7DVDtyevp" target="_blank" rel="nofollow"><img align="right" alt="dracos  Insta" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
+ </a><a href="https://discord.gg/V7DVDtyevp" target="_blank" rel="nofollow"><img align="right" alt="dracos  Insta" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
